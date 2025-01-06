@@ -1,4 +1,4 @@
-### Olá! Eu sou o Daniel 👋
+### Olá! Eu sou o Daniel 👋. Sou formado em Engenharia Mecatrônica pela Universidade de São Paulo e em Desenvolvimento Full Stack pela Driven Education. Atualmente sou CEO/CTO da Indika
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ibiapina/)
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel18.ibiapinabarros@gmail.com)
